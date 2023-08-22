@@ -11,8 +11,8 @@
 ########################################################################################################################
 
 PACKAGE_DIR='JediMakerXtream/main'
-MY_IPK="enigma2-plugin-extensions-jedimakerxtream_6.20.20210928_all.ipk"
-MY_DEB="enigma2-plugin-extensions-jedimakerxtream_6.20_20210928_all.deb"
+MY_IPK="enigma2-plugin-extensions-jedimakerxtream_6.28_20230812_all.ipk"
+MY_DEB="enigma2-plugin-extensions-jedimakerxtream_6.28_20230812_all.deb"
 
 
 ########################################################################################################################
