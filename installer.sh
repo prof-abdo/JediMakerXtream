@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # ==============================================
-# SCRIPT : DOWNLOAD AND INSTALL JediMakerXtream #
+# SCRIPT : DOWNLOAD AND INSTALL Bouquet Maker Xtream #
 # =====================================================================================================================
 # Command: wget https://raw.githubusercontent.com/prof-abdo/JediMakerXtream/main/installer.sh -O - | /bin/sh #
 # =====================================================================================================================
@@ -11,8 +11,8 @@
 ########################################################################################################################
 
 PACKAGE_DIR='JediMakerXtream/main'
-MY_IPK="enigma2-plugin-extensions-jedimakerxtream_6.28_20230812_all.ipk"
-MY_DEB="enigma2-plugin-extensions-jedimakerxtream_6.28_20230812_all.deb"
+MY_IPK="enigma2-plugin-extensions-bouquetmakerxtream_1.42.20250110_all.ipk"
+MY_DEB="enigma2-plugin-extensions-bouquetmakerxtream_1.42_20250110_all.deb"
 
 
 ########################################################################################################################
